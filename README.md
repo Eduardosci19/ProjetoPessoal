@@ -22,7 +22,7 @@ Este é um site dedicado ao Sport Club Internacional, criado por Eduardo Kruger.
 - Font Awesome
 - Google Fonts
 
-
+## Redes Socias
 
 - [Twitter](https://x.com/_krugeredu_)
 - [Instagram](https://www.instagram.com/eduardokrg_/)
